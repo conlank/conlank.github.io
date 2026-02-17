@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Projects and Musings
+title: "Projects and Musings"
 
 # Your name to show in the footer
-author: Conlan Kreher
+author: "Conlan Kreher"
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -53,7 +53,7 @@ social-network-links:
   email: "conlankreher@gmail.com"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
-  github: conlank
+  github: "conlank"
   # twitter: daattali
   # patreon: DeanAttali
   # youtube: "@daattali"
@@ -74,7 +74,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
- ORCID: 0000-0001-9952-9374
+  ORCID: "0000-0001-9952-9374"
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
@@ -210,7 +210,7 @@ cloudflare_analytics: "c29735c7e49d41baa4da73892b594e99"
 # (3) Install the Utterances app in your repository https://github.com/apps/utterances
 # See more details about the parameters below at https://utteranc.es/
 utterances:
-  repository: conlank/conlank.github.io  # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  repository: "conlank/conlank.github.io"  # GitHub username/repository eg. "daattali/beautiful-jekyll"
   issue-term: title   # Mapping between blog posts and GitHub issues
   theme: github-light # Utterances theme
   label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
@@ -260,7 +260,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/New_York"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
